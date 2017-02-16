@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoWithSQLite</string>
+    <string name="addButton">Add</string>
+    <string name="fallbackText">Enter todo item here</string>
+</resources>
