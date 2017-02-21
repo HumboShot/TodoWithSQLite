@@ -43,4 +43,9 @@ public class TodoTask {
     public void setTimestamp(Date timestamp) {
         this.timestamp = timestamp;
     }
+
+    @Override
+    public String toString(){
+        return this.getTodoName();
+    }
 }
